@@ -9,10 +9,10 @@ Calculate the lift curve slope (CLα)
 Observe how stall angle changes with Re
 Establish the foundation for a long-term aerodynamic design project
 ## Files Included
-`Week1_NACA2412_Report.md` → Full technical analysis  
-`NACA2412_CLalpha(1).png` → CL–α graph  
-`NACA2412_CLalpha(2).png` → CL–α graph (closer look stall region)
- XFLR5 project file (`XFLR5_analysis.xfl`)
+https://github.com/varsovaa/XFLR5-Airfoil-Analysis/blob/main/Week1_NACA2412_Report.md → Full technical analysis  
+https://github.com/varsovaa/XFLR5-Airfoil-Analysis/blob/main/Week1_NACA2412_CLalpha(1).png → CL–α graph  
+https://github.com/varsovaa/XFLR5-Airfoil-Analysis/blob/main/Week1_NACA2412_CLalpha(2).png → CL–α graph (closer look stall region)
+https://github.com/varsovaa/XFLR5-Airfoil-Analysis/blob/main/XFLR5_analysis.xfl→ XFLR5 project file 
  ## Author
 Göksu Şahin  
 İstanbul Technical University – Astronautical Engineering  
